@@ -1,4 +1,4 @@
-// Test away!
+
 import React from "react";
 import { render, fireEvent } from "@testing-library/react"; //fireEvent lets us click on our DOM elements
 import Controls from "./Controls.js";
